@@ -16,7 +16,7 @@
 
         
         
-        {"key": "豆瓣JS","name": "豆瓣JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
+        {"key": "豆瓣JS","name": "🖖┃豆瓣JS┃热播🖖","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"荐片","name":"荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},
         {"key":"ikanbot","name":"ikanbot_JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
         {"key":"csp_JianPian","name":"🔨荐片_xyq","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
