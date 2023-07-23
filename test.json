@@ -133,8 +133,8 @@
               
        
   {
-      "key": "厂长影视",
-      "name": "厂长影视|maoJS",
+      "key": "厂长",
+      "name": "厂长|maoJS",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -142,8 +142,8 @@
       "jar": "./jar/fan0723.jar"
     },
     {
-      "key": "厂长影视2",
-      "name": "厂长影视2|maoJS",
+      "key": "厂长2",
+      "name": "厂长2|maoJS",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -160,8 +160,8 @@
       "jar": "./jar/fan0723.jar"
     },
    {
-      "key": "快看影视",
-      "name": "快看影视|maoJS",
+      "key": "快看",
+      "name": "快看|maoJS",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -169,8 +169,8 @@
       "jar": "./jar/fan0723.jar"
     },
     {
-      "key": "快看影视",
-      "name": "快看影视|maoJS",
+      "key": "独播库",
+      "name": "独播库|maoJS",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -178,8 +178,8 @@
       "jar": "./jar/fan0723.jar"
     },    
     {
-      "key": "鲲鱼影视77",
-      "name": "鲲鱼影视77|maoJS",
+      "key": "77影视",
+      "name": "77影视|maoJS",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
