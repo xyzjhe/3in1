@@ -214,7 +214,7 @@
         
         {
             "key":"量子",
-            "name":"量子",
+            "name":"采集|量子",
             "type":"0",
             "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable":"1",
@@ -223,7 +223,7 @@
         },
         {
             "key":"非凡",
-            "name":"非凡",
+            "name":"采集|非凡",
             "type":"0",
             "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable":"1",
@@ -233,7 +233,7 @@
 
         {
             "key": "红牛资源",
-            "name": "红牛资源",
+            "name": "采集|红牛",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -264,7 +264,7 @@
 
         {
             "key": "新浪资源",
-            "name": "️新浪采集",
+            "name": "️采集|新浪",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "playUrl": "",
