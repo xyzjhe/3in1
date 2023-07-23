@@ -1,4 +1,4 @@
-import { Crypto, load, _ } from 'https://pan.shangui.cc/f/qmAZtG/cat.js';
+import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'czzy';
 let url = 'https://cz4k.com';
