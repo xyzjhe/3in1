@@ -1,4 +1,4 @@
-import { Crypto, load, _, jinja2 } from 'https://pan.shangui.cc/f/qmAZtG/cat.js';
+import { Crypto, load, _, jinja2 } from './lib/cat.js';
 
 let key = 'duboku';
 let url = 'https://www.duboku.tv';
