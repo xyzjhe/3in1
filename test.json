@@ -72,7 +72,7 @@
 
 
 
-     {
+     /*{
       "key": "玩偶",
       "name": " 🐝玩偶┃FM",
       "type": 3,
@@ -81,7 +81,7 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
       "jar": "./jar/fm0722.jar"
-    },
+    },*/
     {
       "key": "七夜",
       "name": " 🐝七夜┃FM",
