@@ -151,7 +151,7 @@ class Spider(Spider):  # 元类 默认的元类 type
     def getCookie(self):
 
         #放置你的cookies
-        rsp=self.fetch("https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/cookies.txt")
+        rsp=self.fetch("http://127.0.0.1:9978/file/tvbox/bilicookie.txt")
         cookies_str = rsp.text
         if cookies_str:
             cookies =  dict([co.strip().split('=') for co in cookies_str.split(';')])
