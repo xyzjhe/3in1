@@ -30,7 +30,7 @@
         {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/fan0723.jar"},
         
         {    "key": "哔哩",
-            "name": "🅱️Bilibili┃影视专用",
+            "name": "🅱️Bilibili🅱️┃影视专用",
             "type": 3,
             "api":"csp_Bili",
             "searchable": 1,
