@@ -55,13 +55,15 @@
 
 
 
-        {
+       {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
     {
       "key": "七夜",
@@ -69,40 +71,49 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
     {
-      "key": "雲搜",
-      "name": "雲搜",
+      "key": "云搜",
+      "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
     {
-      "key": "盤搜",
-      "name": "盤搜",
+      "key": "盘搜",
+      "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
     {
-      "key": "盤搜索",
-      "name": "盤搜索",
+      "key": "盘搜索",
+      "name": "盘搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
     {
-      "key": "找資源",
-      "name": "找資源",
+      "key": "找资源",
+      "name": "找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
+      "jar": "./fm/custom_spider.jar"
     },
     {
       "key": "push_agent",
@@ -110,7 +121,9 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./fm/custom_spider.jar"
     },
 
         
