@@ -127,12 +127,66 @@
     },
 
         
-        
-        {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-              
         {"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.fun"},
-     
+        {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Kunyu77","name":"🐞77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+              
+       
+  {
+      "key": "厂长影视",
+      "name": "厂长影视|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/czzy_open.js",
+      "jar": "./jar/fan0723.jar"
+    },
+    {
+      "key": "厂长影视2",
+      "name": "厂长影视2|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/czzy_open2.js",
+      "jar": "./jar/fan0723.jar"
+    },
+    {
+      "key": "爱看机器人",
+      "name": "爱看机器人|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/ikanbot_open.js",
+      "jar": "./jar/fan0723.jar"
+    },
+   {
+      "key": "快看影视",
+      "name": "快看影视|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/kkys_open.js",
+      "jar": "./jar/fan0723.jar"
+    },
+    {
+      "key": "快看影视",
+      "name": "快看影视|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/duboku_open.js",
+      "jar": "./jar/fan0723.jar"
+    },    
+    {
+      "key": "鲲鱼影视77",
+      "name": "鲲鱼影视77|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/kunyu77_open.js",
+      "jar": "./jar/fan0723.jar"
+    },   
+  
         
         
         {"key": "csp_XYQHiker_量子影视","name":"量子影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/量子影视.json"},
