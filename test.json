@@ -34,7 +34,7 @@
         {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/fty0731jar"},
         
         {    "key": "哔哩",
-            "name": "🅱️Bilibili┃影视&esaybox┃🅱️",
+            "name": "🅱️Bilibili┃影视&EasyBOX┃🅱️",
             "type": 3,
             "api":"csp_Bili",
             "searchable": 1,
