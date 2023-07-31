@@ -31,7 +31,7 @@
 
         {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
 
-        {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/fty0731jar"},
+        {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/xyq0729jar"},
         
         {    "key": "哔哩",
             "name": "🅱️Bilibili┃影视专用┃🅱️",
@@ -157,32 +157,40 @@
   
     {
         "key": "live",
-        "name": "直播",
+        "name": "直播|maoJS",
         "type": 3,
+        "searchable": 1,
+        "changeable": 1,
         "api": "./open/live_open.js",
         "ext": "http://home.jundie.top:81/Cat/tv/live.txt",
         "jar": "./jar/fm0731.jar"
     },
     {
         "key": "wogg",
-        "name": "阿里",
+        "name": "阿里|maoJS",
         "type": 3,
+        "searchable": 1,
+        "changeable": 1,
         "api": "./open/wogg_open.js",
         "ext": "https://sharetoken.lm317379829.repl.co/token?iv=1&key=1",
         "jar": "./jar/fm0731.jar"
     },
     {
         "key": "nivod",
-        "name": "泥巴",
+        "name": "泥巴|maoJS",
         "type": 3,
+        "searchable": 1,
+        "changeable": 1,
         "api": "./open/nivod_open.js", 
         "jar": "./jar/fm0731.jar", 
         "ext": "888解忧愁"
     },
     {
         "key": "mtsp",
-        "name": "密探",
+        "name": "密探|maoJS",
         "type": 3,
+        "searchable": 1,
+        "changeable": 1,
         "api": "./open/mtsp_open.js",
         "jar": "./jar/fm0731.jar"
     },
