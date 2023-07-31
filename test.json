@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider":"./jar/custom_spider原画在前0720.jar;md5;905868ffdc1139d29c1d6fef1b71b1d7",
+    "spider":"./jar/xyq0729.jar;md5;6f4c05a1c7bef05dbf3f658fffb9ee0a",
     "lives": [
         {
           "name": "直播",
@@ -31,7 +31,7 @@
 
         {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
 
-        //{"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/custom_spider原画在前0720.jar"},
+        {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/Bili_all.json","jar": "./jar/fty0731jar"},
         
         {    "key": "哔哩",
             "name": "🅱️Bilibili┃影视专用┃🅱️",
@@ -41,7 +41,7 @@
             "changeable": 0,
             "ext": {"type": "电影#电视剧#纪录片#综艺#演唱会#女团#动物世界#风景4K#食谱#相声小品#戏曲#美食#苏教版课程#人教版课程#沪教版课程#北师大版课程#2023年热们歌曲超清#舞蹈#健身#太极拳#帕梅拉#广场舞#番剧#国创#4K音乐#MV#4K MV#选美#模特#泳装秀#内衣秀#儿童",
             "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"},
-            "jar": "./jar/fm0725.jar" 
+            "jar": "./jar/fm0731.jar" 
       },
       
 
@@ -65,13 +65,13 @@
 
 
 
-        {"key":"csp_WoGG","name":" 🍚玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "./jar/fan0723.jar"},
-        {"key":"YiSo","name":" 🍚易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fan0723.jar"},
-        {"key":"Zhaozy","name":" 🍚找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$fanfan$$$qqq111","jar": "./jar/fan0723.jar"},
-        {"key":"PanSou","name":" 🍚盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fan0723.jar"},
-        {"key":"UpYun","name":" 🍚Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fan0723.jar"},
-        {"key":"PanSearch","name":" 🍚盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fan0723.jar"},
-        {"key":"七夜","name":" 🍚七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fan0723.jar"},
+        {"key":"csp_WoGG","name":" 🍚玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "./jar/fty0731.jar"},
+        {"key":"YiSo","name":" 🍚易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fty0731.jar"},
+        {"key":"Zhaozy","name":" 🍚找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$fanfan$$$qqq111","jar": "./jar/fty0731.jar"},
+        {"key":"PanSou","name":" 🍚盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fty0731.jar"},
+        {"key":"UpYun","name":" 🍚Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fty0731.jar"},
+        {"key":"PanSearch","name":" 🍚盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fty0731.jar"},
+        {"key":"七夜","name":" 🍚七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "./jar/fty0731.jar"},
       
 
 
@@ -85,7 +85,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/fm0725.jar"
+       "jar": "./jar/fm0731.jar"
     },
     {
       "key": "云搜",
@@ -95,7 +95,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/fm0725.jar"
+       "jar": "./jar/fm0731.jar"
     },
     {
       "key": "盘搜",
@@ -105,7 +105,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/fm0725.jar"
+       "jar": "./jar/fm0731.jar"
     },
     {
       "key": "盘搜索",
@@ -115,7 +115,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/fm0725.jar"
+       "jar": "./jar/fm0731.jar"
     },
     {
       "key": "找资源",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/fm0725.jar"
+      "jar": "./jar/fm0731.jar"
     },
     {
       "key": "push_agent",
@@ -135,7 +135,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm0725.jar"
+      "jar": "./jar/fm0731.jar"
     },
 
         
@@ -151,7 +151,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open.js",
-      "jar": "./jar/fan0723.jar"
+      "jar": "./jar/fty0731.jar"
     },
     {
       "key": "厂长2",
@@ -160,7 +160,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open2.js",
-      "jar": "./jar/fan0723.jar"
+      "jar": "./jar/fty0731.jar"
     },
     {
       "key": "爱看机器人",
@@ -169,7 +169,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/ikanbot_open.js",
-      "jar": "./jar/fan0723.jar"
+      "jar": "./jar/fty0731.jar"
     },
    {
       "key": "快看",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kkys_open.js",
-      "jar": "./jar/fan0723.jar"
+      "jar": "./jar/fty0731.jar"
     },
     {
       "key": "独播库",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/duboku_open.js",
-      "jar": "./jar/fan0723.jar"
+      "jar": "./jar/fty0731.jar"
     },    
     {
       "key": "77影视",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kunyu77_open.js",
-      "jar": "./jar/fan0723.jar"
+     "jar": "./jar/fty0731.jar"
     },   
   
         
