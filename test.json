@@ -157,17 +157,17 @@
   
     {
         "key": "live",
-        "name": "直播|maoJS",
+        "name": "🌸直播|maoJS",
         "type": 3,
         "searchable": 1,
         "changeable": 1,
         "api": "./open/live_open.js",
-        "ext": "http://home.jundie.top:81/Cat/tv/live.txt",
+        "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
         "jar": "./jar/fm0731.jar"
     },
     {
         "key": "wogg",
-        "name": "阿里|maoJS",
+        "name": "🐦阿里|maoJS",
         "type": 3,
         "searchable": 1,
         "changeable": 1,
@@ -177,7 +177,7 @@
     },
     {
         "key": "nivod",
-        "name": "泥巴|maoJS",
+        "name": "🐤泥巴|maoJS",
         "type": 3,
         "searchable": 1,
         "changeable": 1,
@@ -187,7 +187,7 @@
     },
     {
         "key": "mtsp",
-        "name": "密探|maoJS",
+        "name": "🦉密探|maoJS",
         "type": 3,
         "searchable": 1,
         "changeable": 1,
