@@ -26,15 +26,8 @@
         {"key":"py_cctv","name": "📺CCTV📺","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
         {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
 
-        {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
-        {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
-
-        {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
-
-       
-        
-        {    "key": "哔哩",
-            "name": "🅱️Bilibili┃影视&EasyBOX┃🅱️",
+         {    "key": "哔哩",
+            "name": "🅱️Bili_8K┃影视&EasyBOX&影视仓┃🅱️",
             "type": 3,
             "api":"csp_Bili",
             "searchable": 1,
@@ -43,6 +36,16 @@
             "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"},
             "jar": "./jar/fm0731.jar" 
       },
+        
+        {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
+              
+        {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
+
+        {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
+
+       
+        
+       
 
     {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},
     {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
