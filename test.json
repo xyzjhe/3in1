@@ -68,6 +68,17 @@
       "jar": "./jar/QQ.jar"
       },
       {
+      "key": "csp_Woogg",
+      "name": "玩偶哥哥┃搜索",
+      "type": 3,
+      "api": "csp_Woogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./jar/QQ.jar" 
+      {
       "key": "阿里云集合",
       "name": "阿里云集合|4K",
       "type": 3,
