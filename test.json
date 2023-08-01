@@ -78,6 +78,7 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
       "jar": "./jar/QQ.jar" 
+      },   
       {
       "key": "阿里云集合",
       "name": "阿里云集合|4K",
