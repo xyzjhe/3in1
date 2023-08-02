@@ -260,7 +260,7 @@
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json","jar": "./jar/custom_spider原画在前0801.jar"},
         {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享.json","jar": "./jar/custom_spider原画在前0801.jar"},
        
-  {
+  /*{
       "key": "七夜",
       "name": " 🐝七夜┃FM",
       "type": 3,
@@ -269,7 +269,7 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
        "jar": "./jar/fm0731.jar"
-    },
+    },*/
     {
       "key": "云搜",
       "name": " 🐝云搜┃FM",
