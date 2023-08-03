@@ -92,7 +92,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/QQ.jar"
+      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
       },
       {
       "key": "i4k",
@@ -103,7 +103,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/QQ.jar"
+      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
       },
 
         
@@ -117,7 +117,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/QQ.jar" 
+       "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
       },   
       {
       "key": "阿里云集合",
@@ -128,7 +128,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/QQ.jar"   
+      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
       },
       {   
       "key": "csp_DyyAli",
@@ -140,7 +140,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/QQ.jar"    
+      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"   
       },
 
 
