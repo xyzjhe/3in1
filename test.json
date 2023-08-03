@@ -217,8 +217,8 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/nivod_open.js", 
+        "ext": "888解忧愁", 
         "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
-        "ext": "888解忧愁"
     },
     {
         "key": "mtsp",
