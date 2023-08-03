@@ -152,7 +152,7 @@
         "changeable": 1,
         "api": "./open/live_open.js",
         "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/fm0731.jar"
+        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
     },
     {
         "key": "wogg",
@@ -162,8 +162,54 @@
         "changeable": 1,
         "api": "./open/wogg_open.js",
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/fm0731.jar"
+        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
     },
+
+    {
+      "key": "厂长",
+      "name": " 🐹厂长|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/czzy_open.js",
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+    },
+    {
+      "key": "厂长2",
+      "name": " 🐰厂长2|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/czzy_open2.js",
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+    },
+    {
+      "key": "爱看机器人",
+      "name": " 🦊爱看机器人|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/ikanbot_open.js",
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+    },
+   {
+      "key": "快看",
+      "name": " 🐻快看|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/kkys_open.js",
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+    },
+    {
+      "key": "77影视",
+      "name": " 🐨77影视|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/kunyu77_open.js",
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+    },       
     {
         "key": "nivod",
         "name": "🐤泥巴|maoJS",
@@ -171,7 +217,7 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/nivod_open.js", 
-        "jar": "./jar/fm0731.jar", 
+        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
         "ext": "888解忧愁"
     },
     {
@@ -181,44 +227,9 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/mtsp_open.js",
-        "jar": "./jar/fm0731.jar"
+        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
     },
-    {
-      "key": "厂长",
-      "name": " 🐹厂长|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/czzy_open.js",
-      "jar": "./jar/fm0731.jar"
-    },
-    {
-      "key": "厂长2",
-      "name": " 🐰厂长2|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/czzy_open2.js",
-      "jar": "./jar/fm0731.jar"
-    },
-    {
-      "key": "爱看机器人",
-      "name": " 🦊爱看机器人|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/ikanbot_open.js",
-      "jar": "./jar/fm0731.jar"
-    },
-   {
-      "key": "快看",
-      "name": " 🐻快看|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/kkys_open.js",
-      "jar": "./jar/fm0731.jar"
-    },
+    
     {
       "key": "独播库",
       "name": " 🐼独播库|maoJS",
@@ -226,17 +237,9 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/duboku_open.js",
-      "jar": "./jar/fm0731.jar"
+      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
     },    
-    {
-      "key": "77影视",
-      "name": " 🐨77影视|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/kunyu77_open.js",
-      "jar": "./jar/fm0731.jar"
-    },   
+    
         
 
         {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/custom_spider原画在前0802.jar;md5;8b4d7815240224e910848d075a884058"},
