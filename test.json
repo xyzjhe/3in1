@@ -73,14 +73,14 @@
         
        
 
-    {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},
-    {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
-    {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
-    {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
-    {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
-    {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
-    {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
-    {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
+        {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},
+        {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
+        {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
+        {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
+        {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
+        {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
+        {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
+        {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
 
       {
@@ -92,7 +92,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
+      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
       },
       {
       "key": "i4k",
@@ -103,7 +103,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
+      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
       },
 
         
@@ -117,7 +117,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
+      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
       },   
       {
       "key": "阿里云集合",
@@ -128,7 +128,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"
+      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
       },
       {   
       "key": "csp_DyyAli",
@@ -140,7 +140,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0803.jar;md5;91657ec2f0af553dad690570dc32a19c"   
+      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"  
       },
 
 
