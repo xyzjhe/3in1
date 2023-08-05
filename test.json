@@ -275,7 +275,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },*/
     {
       "key": "云搜",
@@ -285,7 +285,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },
     {
       "key": "盘搜",
@@ -295,7 +295,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },
     {
       "key": "盘搜索",
@@ -305,7 +305,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },
     {
       "key": "找资源",
@@ -315,7 +315,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },
     {
       "key": "push_agent",
@@ -325,7 +325,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
     },
 
         
