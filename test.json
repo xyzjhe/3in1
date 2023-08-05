@@ -169,7 +169,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
       },
       {
       "key": "i4k",
@@ -180,7 +180,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
       },
 
         
@@ -194,7 +194,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
       },   
       {
       "key": "阿里云集合",
@@ -205,7 +205,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"
+      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
       },
       {   
       "key": "csp_DyyAli",
@@ -217,7 +217,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv_FM0804.jar;md5;d490c12358b63435419cc0e8249a461c"  
+      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"  
       },
 
 
@@ -229,7 +229,7 @@
         "changeable": 1,
         "api": "./open/live_open.js",
         "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
         "key": "wogg",
@@ -239,7 +239,7 @@
         "changeable": 1,
         "api": "./open/wogg_open.js",
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
 
     {
@@ -249,7 +249,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "厂长2",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open2.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "爱看机器人",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/ikanbot_open.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
    {
       "key": "快看",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kkys_open.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "77影视",
@@ -285,7 +285,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kunyu77_open.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },       
     {
         "key": "nivod",
@@ -295,7 +295,7 @@
         "changeable": 1,
         "api": "./open/nivod_open.js", 
         "ext": "888解忧愁", 
-        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
         "key": "mtsp",
@@ -304,7 +304,7 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/mtsp_open.js",
-        "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     
     {
@@ -314,7 +314,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/duboku_open.js",
-      "jar": "./jar/FM0801.jar;md5;04cfe6ba366acf7e94a7d44795fc0bc3"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },    
     
         
