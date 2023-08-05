@@ -75,7 +75,8 @@
         
         
 
-         /*{
+    
+    /*{
       "key": "七夜",
       "name": " 🐝七夜┃FM",
       "type": 3,
@@ -83,8 +84,19 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },*/
+
+    {
+      "key": "玩偶",
+      "name": "🐝玩偶┃FM",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+    },
     {
       "key": "云搜",
       "name": " 🐝云搜┃FM",
@@ -93,7 +105,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "盘搜",
@@ -103,7 +115,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "盘搜索",
@@ -113,7 +125,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "找资源",
@@ -123,7 +135,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
       "key": "push_agent",
@@ -133,7 +145,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/fm_spider_0805.jar;md5;9b2ce5eda989d2f2395ea601b0323f9d"
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
 
         
