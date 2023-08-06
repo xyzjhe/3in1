@@ -1,65 +1,74 @@
 {
   "video": {
     "sites": [
-      {
-        "key": "live",
-        "name": "直播",
-        "type": 3,
-        "api": "assets://js/live_open.js",
-        "ext": "http://home.jundie.top:81/Cat/tv/live.txt"
-      },
-      {
-        "key": "czzy",
-        "name": "厂长",
-        "type": 3,
-        "api": "assets://js/czzy_open.js"
-      },
-      {
-        "key": "kunyu77",
-        "name": "七七",
-        "type": 3,
-        "api": "assets://js/kunyu77_open.js"
-      },       
-      {
-        "key": "kkys",
-        "name": "快看",
-        "type": 3,
-        "api": "assets://js/kkys_open.js"
-      },       
-      {
+	{
         "key": "ikanbot",
-        "name": "爱看",
+        "name": "🏓多多丨影音",
         "type": 3,
         "api": "assets://js/ikanbot_open.js"
-      },
-      {
+    }, 
+	{
+        "key": "kunyu77",
+        "name": "🏓多多丨七七",
+        "type": 3,
+        "api": "assets://js/kunyu77_open.js"
+   },
+   {
+        "key": "czzy",
+        "name": "🏓多多丨厂长①",
+        "type": 3,
+        "api": "assets://js/czzy_open.js"
+   },
+   {
+        "key": "czzy2",
+        "name": "🏓多多丨厂长②",
+        "type": 3,
+        "api": "assets://js/czzy2_open.js"
+   },
+   {
+        "key": "kkys",
+        "name": "🏓多多丨快看",
+        "type": 3,
+        "api": "assets://js/kkys_open.js"
+    },
+    {
         "key": "wogg",
-        "name": "阿里",
+        "name": "🏓多多丨玩偶",
         "type": 3,
         "api": "assets://js/wogg_open.js",
-        "ext": "https://sharetoken.lm317379829.repl.co/token?iv=1&key=1"
-      }
-    /* 
-      {
+        "ext": "输入阿里token"
+   }, 
+    {
         "key": "duboku",
-        "name": "独播",
+        "name": "🏓多多丨独播①",
         "type": 3,
         "api": "assets://js/duboku_open.js"
-      },
-      {
-        "key": "nivod",
-        "name": "泥巴",
+    }, 	
+    {
+        "key": "dubokufq",
+        "name": "✈️多多丨独播②",
         "type": 3,
-        "api": "assets://js/nivod_open.js", 
+        "api": "assets://js/dubokufq_open.js"
+    },   
+   {
+        "key": "nivod",
+        "name": "✈️多多丨泥巴",
+        "type": 3,
+        "api": "assets://js/nivod_open.js",
         "ext": "888解忧愁"
-      },
-      {
+    }, 
+    {
         "key": "mtsp",
-        "name": "密探",
+        "name": "🔞多多丨蜜桃",
         "type": 3,
         "api": "assets://js/mtsp_open.js"
-      },
-      */
+     },
+     {
+        "key": "18av",
+        "name": "🔞多多丨18AV",
+        "type": 3,
+        "api": "assets://js/18av_open.js"
+     }	
     ]
   },
   "pan": {
@@ -90,7 +99,7 @@
           },
           {
             "name": "🐋一只鱼",
-            "server": "https://vtok.pp.ua/"
+            "server": "https://alist.youte.ml"
           },
           {
             "name": "🌊七米蓝",
@@ -114,6 +123,10 @@
           },
           {
             "name": "💦讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          },
+          {
+            "name": "公众号：白虾工具",
             "server": "https://pan.xwbeta.com"
           }
         ]
