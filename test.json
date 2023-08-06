@@ -221,28 +221,8 @@
       },
 
 
+            
       {
-        "key": "live",
-        "name": "🌸直播|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/live_open.js",
-        "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
-    },
-    {
-        "key": "wogg",
-        "name": "🐦阿里|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/wogg_open.js",
-        "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
-    },
-
-    {
       "key": "厂长",
       "name": " 🐹厂长|maoJS",
       "type": 3,
@@ -279,6 +259,15 @@
       "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },
     {
+      "key": "独播库",
+      "name": " 🐼独播库|maoJS",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/duboku_open.js",
+      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+    },    
+    {
       "key": "77影视",
       "name": " 🐨77影视|maoJS",
       "type": 3,
@@ -288,6 +277,28 @@
       "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
     },       
     {
+        "key": "live",
+        "name": "🌸直播|maoJS",
+        "type": 3,
+        "searchable": 1,
+        "changeable": 1,
+        "api": "./open/live_open.js",
+        "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+    },
+    {
+        "key": "wogg",
+        "name": "🐦阿里|maoJS",
+        "type": 3,
+        "searchable": 1,
+        "changeable": 1,
+        "api": "./open/wogg_open.js",
+        "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+    },
+
+    
+    /*{
         "key": "nivod",
         "name": "🐤泥巴|maoJS",
         "type": 3,
@@ -296,8 +307,8 @@
         "api": "./open/nivod_open.js", 
         "ext": "888解忧愁", 
         "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
-    },
-    {
+    },*/
+    /*{
         "key": "mtsp",
         "name": "🦉密探|maoJS",
         "type": 3,
@@ -305,17 +316,9 @@
         "changeable": 1,
         "api": "./open/mtsp_open.js",
         "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
-    },
+    },*/
     
-    {
-      "key": "独播库",
-      "name": " 🐼独播库|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/duboku_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
-    },    
+    
     
         
 
