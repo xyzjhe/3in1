@@ -104,7 +104,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },*/
 
     {
@@ -115,7 +115,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },
     {
       "key": "云搜",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM_test_0806.jar;md5;e70258de9451becb003cd686663ebb4e"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },
     {
       "key": "盘搜",
@@ -145,7 +145,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM_test_0806.jar;md5;e70258de9451becb003cd686663ebb4e"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },
     {
       "key": "找资源",
@@ -155,7 +155,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },
     {
       "key": "push_agent",
@@ -165,7 +165,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
     },
 
         
