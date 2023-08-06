@@ -106,7 +106,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM_test_0806.jar"
     },
     {
       "key": "盘搜",
@@ -116,7 +116,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM_test_0806.jar"
     },
     {
       "key": "盘搜索",
@@ -126,7 +126,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM_test_0806.jar"
     },
     {
       "key": "找资源",
