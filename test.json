@@ -20,6 +20,19 @@
         [
 
         {"key": "Douban", "name": "🍗┃豆瓣SP┃🍗", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+
+        {
+         "key": "csp_QQ",
+         "name": " 🐧┃QQ4K┃🐧",
+         "type": 3,
+         "api": "csp_QQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+         "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
+         }, 
+        
         /*{"key": "QQ", "name": "QQ", "type": 3, "api": "csp_QQ", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},*/    
         {"key": "IQIYI", "name": "IQIYI_sp", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
         {"key": "MGTV", "name": "MGTV_sp", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
