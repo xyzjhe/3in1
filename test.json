@@ -44,7 +44,49 @@
          "changeable": 0,
          "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
          },
-        
+
+     {
+      "key": "lf_js_search",
+      "name": "搜索 | lf_search|影视专用",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "./lufei/lf_search3_min.js"
+    },
+    {
+      "key": "lf_js_p2p_18+",
+      "name": "磁力 | lf_p2p|影视专用",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lufei/lf_p2p2_min.js"
+    },
+    {
+      "key": "lf_js_p2p",
+      "name": "磁力18+ | lf_p2p|影视专用",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lufei/lf_p2p2_min.js",
+      "ext": "18+"
+    },
+    {
+      "key": "lf_js_ikanbot",
+      "name": "点播 | lf_ikanbot|影视专用",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lufei/lf_ikanbot4_1_min.js"
+    } 
+            
         {"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
         {"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
         
