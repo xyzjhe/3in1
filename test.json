@@ -19,7 +19,7 @@
 "sites": 
         [
 
-        {"key": "Douban", "name": "🍗┃豆瓣SP┃🍗", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+        {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
 
         {
          "key": "csp_QQ",
@@ -30,14 +30,25 @@
          "quickSearch": 1,
          "filterable": 1,
          "changeable": 0,
-         "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
+         "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
          }, 
+
+        {
+         "key": "i4k",
+         "name": "  📹┃i4k┃ 📹",
+         "type": 3,
+         "api": "csp_I4K",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+         "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
+         },
         
-        /*{"key": "QQ", "name": "QQ", "type": 3, "api": "csp_QQ", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},*/    
-        {"key": "IQIYI", "name": "IQIYI_sp", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
-        {"key": "MGTV", "name": "MGTV_sp", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+        {"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+        {"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
         
-        {"key": "豆瓣JS","name": "🖖┃豆瓣JS┃热播🖖","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
+        {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"T4荐片","name":"🍒┃豆瓣T4┃备用🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
         {"key":"荐片","name":" 🐶荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},
         {"key":"ikanbot","name":"🐱ikanbot_JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
@@ -189,28 +200,8 @@
         {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
 
-      {
-      "key": "csp_QQ",
-      "name": " 🐧┃QQ4K┃🐧",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
-      },
-      /*{
-      "key": "i4k",
-      "name": " 🦞┃i4k┃🦞",
-      "type": 3,
-      "api": "csp_I4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
-      },*/
+      
+      
 
         
       {
@@ -223,7 +214,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
+      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
       },   
       {
       "key": "阿里云集合",
@@ -234,7 +225,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
+      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
       },
       {   
       "key": "csp_DyyAli",
@@ -246,7 +237,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"  
+      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde" 
       },
 
 
