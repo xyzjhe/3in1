@@ -85,7 +85,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "./lufei/lf_ikanbot4_1_min.js"
-    } 
+    }, 
             
         {"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
         {"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
