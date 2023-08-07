@@ -30,7 +30,7 @@
          "quickSearch": 1,
          "filterable": 1,
          "changeable": 0,
-         "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
+         "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
          }, 
 
         {
@@ -42,7 +42,7 @@
          "quickSearch": 1,
          "filterable": 1,
          "changeable": 0,
-         "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
+         "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
          },
 
      
@@ -216,7 +216,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
+      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
       },   
       {
       "key": "阿里云集合",
@@ -227,7 +227,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde"
+      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
       },
       {   
       "key": "csp_DyyAli",
@@ -239,7 +239,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0807.jar;md5;179d09ef90209e12a990af10dd6acbde" 
+      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
       },
 
 
