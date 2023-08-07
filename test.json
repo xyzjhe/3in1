@@ -104,7 +104,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },*/
 
     {
@@ -115,7 +115,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "云搜",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "盘搜",
@@ -135,7 +135,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM_test_0806b.jar;md5;921a030ef30fa3e8f83c499aceb76aa0"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "盘搜索",
@@ -145,7 +145,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "找资源",
@@ -155,7 +155,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "push_agent",
@@ -165,7 +165,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0806.jar;md5;1330f8422b05c560a0f1eba33e81e3c2"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
 
         
@@ -191,7 +191,7 @@
       "changeable": 0,
       "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
       },
-      {
+      /*{
       "key": "i4k",
       "name": " 🦞┃i4k┃🦞",
       "type": 3,
@@ -201,7 +201,7 @@
       "filterable": 1,
       "changeable": 0,
       "jar": "./jar/xytv0806.jar;md5;ad8815361ac9040f591c16323a749f6b"
-      },
+      },*/
 
         
       {
@@ -249,7 +249,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "厂长2",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open2.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "爱看机器人",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/ikanbot_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
    {
       "key": "快看",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kkys_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
       "key": "独播库",
@@ -285,7 +285,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/duboku_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },    
     {
       "key": "77影视",
@@ -294,7 +294,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kunyu77_open.js",
-      "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },       
     {
         "key": "live",
@@ -304,7 +304,7 @@
         "changeable": 1,
         "api": "./open/live_open.js",
         "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
     {
         "key": "wogg",
@@ -314,7 +314,7 @@
         "changeable": 1,
         "api": "./open/wogg_open.js",
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },
 
     
@@ -326,7 +326,7 @@
         "changeable": 1,
         "api": "./open/nivod_open.js", 
         "ext": "888解忧愁", 
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },*/
     /*{
         "key": "mtsp",
@@ -335,7 +335,7 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/mtsp_open.js",
-        "jar": "./jar/FM0805.jar;md5;dc65fa8fabc0fba297b0dd6000af50be"
+        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
     },*/
     
     
