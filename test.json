@@ -461,7 +461,7 @@
         {"key": "csp_XYQBiu_Libvio","name": " 🐮Libvio(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/libvio.json","jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},
         {"key": "csp_XYQHiker_COKEMV影院","name":" 🐷COKEMV影院(XYQH)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/COKEMV影院.json","jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},
         {"key": "csp_XYQHiker_voflixHD","name":" 🐽voflixHD(XYQH-laoZiShuDaoS)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/voflix HD.json","jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},    
-        {"key": "csp_XYQHiker_555影视","name":"555影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/555影视.json"},
+        {"key": "csp_XYQHiker_555影视","name":"555影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/555影视.json","jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},
         
        {
         "key": "drpy_js_腾云驾雾",
