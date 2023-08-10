@@ -2,7 +2,7 @@
     
 "wallpaper": "https://bing.img.run/rand.php",
     
-"spider":"./jar/fty0807.jar;md5;a7eaa5ff0eeaa124cfa18aeddbc8ecba",
+"spider":"./jar/fty0808.jar;md5;55894a9f32ba4201a1e2b157bb2e5c91",
     
 "lives": [
         {
@@ -30,7 +30,7 @@
          "quickSearch": 1,
          "filterable": 1,
          "changeable": 0,
-         "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
+         "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
          }, 
 
         {
@@ -42,7 +42,7 @@
          "quickSearch": 1,
          "filterable": 1,
          "changeable": 0,
-         "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
+         "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
          },
 
      
@@ -216,7 +216,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
+      "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
       },   
       {
       "key": "阿里云集合",
@@ -227,7 +227,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
+      "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
       },
       {   
       "key": "csp_DyyAli",
@@ -239,7 +239,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/xytv0808.jar;md5;21a249b539f3ae44bae13d48ee7040c9"
+      "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
       },
 
 
