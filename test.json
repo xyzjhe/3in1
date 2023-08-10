@@ -108,7 +108,21 @@
         {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
         {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
         {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
-        {"key":"csp_Bili","name":"🅱️┃哔哩哔哩SP┃🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},
+
+        {
+         "key": "哔哩",
+         "name": "哔哩test",
+         "type": 3,
+         "api": "csp_Bili",
+         "searchable": 1,
+         "changeable": 0,
+         "style": {"type": "rect","ratio": 1.597},
+         "ext": {"json": "./biliext/bili_all.json",
+                  "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"
+                }
+         },
+        
+        /*{"key":"csp_Bili","name":"🅱️┃哔哩哔哩SP┃🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},*/
 
 
 
