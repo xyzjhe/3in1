@@ -68,7 +68,7 @@
             "changeable": 0,
             "ext": {"type": "电影#电视剧#纪录片#综艺#演唱会#女团#动物世界#风景4K#食谱#相声小品#戏曲#美食#苏教版课程#人教版课程#沪教版课程#北师大版课程#2023年热们歌曲超清#舞蹈#健身#太极拳#帕梅拉#广场舞#番剧#国创#4K音乐#MV#4K MV#选美#模特#泳装秀#内衣秀#儿童",
             "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"},
-            "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0" 
+            "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
          },
         
         {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
@@ -126,7 +126,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },*/
 
     {
@@ -137,7 +137,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "云搜",
@@ -147,7 +147,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "盘搜",
@@ -157,7 +157,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "盘搜索",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "找资源",
@@ -177,7 +177,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "push_agent",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
 
         
@@ -251,7 +251,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "厂长2",
@@ -260,7 +260,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/czzy_open2.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "爱看机器人",
@@ -269,7 +269,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/ikanbot_open.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
    {
       "key": "快看",
@@ -278,7 +278,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kkys_open.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
       "key": "独播库",
@@ -287,7 +287,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/duboku_open.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },    
     {
       "key": "77影视",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "./open/kunyu77_open.js",
-      "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+      "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },       
     {
         "key": "live",
@@ -306,7 +306,7 @@
         "changeable": 1,
         "api": "./open/live_open.js",
         "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+        "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
     {
         "key": "wogg",
@@ -316,7 +316,7 @@
         "changeable": 1,
         "api": "./open/wogg_open.js",
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+        "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },
 
     
@@ -328,7 +328,7 @@
         "changeable": 1,
         "api": "./open/nivod_open.js", 
         "ext": "888解忧愁", 
-        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+        "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },*/
     /*{
         "key": "mtsp",
@@ -337,7 +337,7 @@
         "searchable": 1,
         "changeable": 1,
         "api": "./open/mtsp_open.js",
-        "jar": "./jar/FM0807.jar;md5;a33b78297d1b0ba9b7b4063550447ca0"
+        "jar": "./jar/FM0810.jar;md5;edae7af0ef2089cfc135c90ce085aacd" 
     },*/
     
     
