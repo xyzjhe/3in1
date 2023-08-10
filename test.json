@@ -557,7 +557,17 @@
         
       {"key":"frok","name":" 🦋配置接口完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
         
-      {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
+      {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+
+      {
+            "key": "公告",
+            "name": "公告",
+            "type": 3,
+            "api": "csp_Notice",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/wgq332/tvt/raw/master/notice.json"
+        }
   
     ],
 
