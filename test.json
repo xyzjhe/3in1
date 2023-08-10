@@ -19,7 +19,7 @@
 "sites": 
         [
 
-        {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+        {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},
 
         {
          "key": "csp_QQ",
@@ -47,8 +47,8 @@
 
      
             
-        {"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
-        {"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0806.jar;md5;542a4c8f408e531e6f269c4cc2c7e13a"},
+        {"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},
+        {"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},
         
         {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"T4荐片","name":"🍒┃豆瓣T4┃备用🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
