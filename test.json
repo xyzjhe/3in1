@@ -20,15 +20,16 @@
         [
 
         {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},
-        {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
-
         {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-        {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
-        {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
-
+        {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"T4荐片","name":"🍒┃豆瓣T4┃备用🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+            
+        {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
         {"key":"荐片","name":" 🐶荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},
+        
+        {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
         {"key":"ikanbot","name":"🐱ikanbot_JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
+              
         {"key":"csp_JianPian","name":"🔨荐片_xyq","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},
         {"key":"csp_Ikanbot","name": "👾Ikanbot_xyq","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/custom_spider原画在前0807.jar;md5;f86699b3d256291716d8b31114f49a8e"},
         
