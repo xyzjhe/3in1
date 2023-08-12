@@ -273,7 +273,7 @@
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
       "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9"  
     },
-    {
+    /*{
       "key": "push_agent",
       "name": " 🐝推送┃FM",
       "type": 3,
@@ -282,7 +282,7 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
       "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9"  
-    },
+    },*/
 
     {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
     {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
