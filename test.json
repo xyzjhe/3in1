@@ -404,11 +404,11 @@
     {"key":"csp_Itv","name":"🥝爱奇艺┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
     {"key":"csp_Mtv","name":"🍋芒果┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-    {"key":"csp_Dm84","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ying","name":"樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ysj","name":"异界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Yj1211","name":"短视频","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
             
     
     
