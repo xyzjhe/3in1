@@ -306,6 +306,16 @@
     {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
     {
+      "key": "bblili",
+      "name": "🅱️bilibili|maoJS🅱️",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/mybili_open.js",
+      "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9"  
+    },
+		
+    {
       "key": "厂长",
       "name": " 🐹厂长|maoJS",
       "type": 3,
