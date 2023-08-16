@@ -153,7 +153,7 @@
         "api": "./lufei/lf_p2p2_min.js",
         "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9" 
        },
-       {
+       /*{
        "key": "lf_js_p2p_18+",
        "name": "磁力18+|lf_p2p",
        "type": 3,
@@ -164,7 +164,7 @@
        "api": "./lufei/lf_p2p2_min.js",
        "ext": "18+",
        "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9" 
-      },
+      },*/
      
             
         /*{"key":"csp_Bili","name":"🅱️┃哔哩哔哩SP┃🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},*/
