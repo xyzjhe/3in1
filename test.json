@@ -292,6 +292,16 @@
       "api": "./open/mybili_open.js",
       "jar": "./jar/FM0816_mymine.jar;md5;e3cacb5015bdd80019208582ff6bf806"  
     },
+
+    {
+      "key": "bblili_xiaodengta",
+      "name": "🅱️bili小灯塔|maoJS🅱️",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./open/bili.js",
+      "jar": "./jar/FM0816_mymine.jar;md5;e3cacb5015bdd80019208582ff6bf806"  
+    },
 		
     {
       "key": "厂长",
