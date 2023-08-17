@@ -76,7 +76,7 @@
          "filterable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
          },   
          {
          "key": "阿里云集合",
@@ -87,7 +87,7 @@
          "filterable": 0,
          "switchable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
          },
          {   
          "key": "csp_DyyAli",
@@ -99,12 +99,9 @@
          "filterable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/xytv0810.jar;md5;8aa19c3b92ea248f90f338ece35b23b8"
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
          },
      
-           
-        
-
         /*{
          "key": "哔哩",
          "name": "哔哩test",
@@ -130,16 +127,16 @@
        },
 
        {
-      "key": "lf_js_ikanbot",
-      "name": "点播|lf_ikanbot",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lufei/lf_ikanbot4_1_min.js",
-      "jar": "./jar/FM0816_mymine.jar;md5;e3cacb5015bdd80019208582ff6bf806"  
-     },
+        "key": "lf_js_ikanbot",
+        "name": "点播|lf_ikanbot",
+        "type": 3,
+        "searchable": 1,
+        "changeable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "./lufei/lf_ikanbot4_1_min.js",
+        "jar": "./jar/FM0816_mymine.jar;md5;e3cacb5015bdd80019208582ff6bf806"  
+       },
 		
        {
         "key": "lf_js_p2p",
@@ -152,6 +149,7 @@
         "api": "./lufei/lf_p2p2_min.js",
         "jar": "./jar/FM0816_mymine.jar;md5;e3cacb5015bdd80019208582ff6bf806"  
        },
+		
        /*{
        "key": "lf_js_p2p_18+",
        "name": "磁力18+|lf_p2p",
