@@ -1,4 +1,4 @@
-import { _ } from "assets://js/lib/cat.js";
+import { _ } from "from "./lib/cat.js";
 let key = '哔哩哔哩';
 let homeName = '白噪音';
 let HOST = 'https://api.bilibili.com';
