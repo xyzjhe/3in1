@@ -163,7 +163,7 @@
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json","jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
         {"key":"push_agent","name":"📀推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
         
-  /*{
+    /*{
       "key": "七夜",
       "name": " 🐝七夜┃FM",
       "type": 3,
@@ -172,7 +172,7 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
       "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
-    },*/
+     },*/
 
     {
       "key": "玩偶",
