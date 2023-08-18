@@ -23,21 +23,8 @@
         {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"T4荐片","name":"🍒┃豆瓣T4┃备用🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-        {
-            "key":"MTV合集",
-            "name":"MTV合集",
-            "type":1,
-            "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
+        {"key":"MTV合集","name":"MTV合集", "type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable":1, "quickSearch":1,"filterable":1,"changeable":0 },
 
-        {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
-        {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
-        {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},		
-		
         {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
         {"key":"荐片","name":" 🐶荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},
         {"key":"csp_JianPian","name":"🔨荐片_xyq","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
@@ -47,78 +34,8 @@
             
         {"key":"ikanbot","name":"🐱ikanbot_JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
         {"key":"csp_Ikanbot","name": "👾Ikanbot_xyq","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
-        
-        {"key":"py_cctv","name": "📺CCTV📺","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
-        {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
 
-         {"key": "哔哩",
-            "name": "🅱️Bili_8K┃影视&EasyBOX&影视仓┃🅱️",
-            "type": 3,
-            "api":"csp_Bili",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {"type": "电影#电视剧#纪录片#综艺#演唱会#女团#动物世界#风景4K#食谱#相声小品#戏曲#美食#苏教版课程#人教版课程#沪教版课程#北师大版课程#2023年热们歌曲超清#舞蹈#健身#太极拳#帕梅拉#广场舞#番剧#国创#4K音乐#MV#4K MV#选美#模特#泳装秀#内衣秀#儿童",
-            "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"},
-            "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
-         },
-        
-        {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
-        {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
-        {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
-
-         /*{"key": "IQIYI", "name":"🥝┃IQIYI_sp┃🥝", "type": 3, "api": "csp_IQIYI", "searchable": 1,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},*/
-         /*{"key": "MGTV", "name":"🍋┃MGTV_sp┃🍋", "type": 3, "api": "csp_MGTV", "searchable": 1,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},*/
-            
-        
-         {
-         "key": "csp_Woogg",
-         "name": " 🍎玩偶哥哥┃搜索",
-         "type": 3,
-         "api": "csp_Woogg",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "changeable": 0,
-         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
-         },   
-         {
-         "key": "阿里云集合",
-         "name": " 🍎阿里云集合|4K",
-         "type": 3,
-         "api": "csp_阿里云集合",
-         "searchable": 1,
-         "filterable": 0,
-         "switchable": 0,
-         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
-         },
-         {   
-         "key": "csp_DyyAli",
-         "name": " 🍎电影院┃搜索",
-         "type": 3,
-         "api": "csp_DyyAli",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "changeable": 0,
-         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
-         },
-     
-        /*{
-         "key": "哔哩",
-         "name": "哔哩test",
-         "type": 3,
-         "api": "csp_Bili",
-         "searchable": 1,
-         "changeable": 0,
-         "ext": {"json": "./biliext/bili_all.json",
-                 "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"},
-         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-         },*/
-
-        {
+	 {
          "key": "lf_js_search",
          "name": "搜索|lf_search",
          "type": 3,
@@ -166,12 +83,65 @@
        "ext": "18+",
        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
       },*/
-     
-            
-        /*{"key":"csp_Bili","name":"🅱️┃哔哩哔哩SP┃🅱️","type":3,"playerType":2,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/bili_all.json"},*/
+        
+        {"key":"py_cctv","name": "📺CCTV📺","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
+        {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
 
+        {"key": "哔哩",
+            "name": "🅱️Bili_8K┃影视&EasyBOX&影视仓┃🅱️",
+            "type": 3,
+            "api":"csp_Bili",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {"type": "电影#电视剧#纪录片#综艺#演唱会#女团#动物世界#风景4K#食谱#相声小品#戏曲#美食#苏教版课程#人教版课程#沪教版课程#北师大版课程#2023年热们歌曲超清#舞蹈#健身#太极拳#帕梅拉#广场舞#番剧#国创#4K音乐#MV#4K MV#选美#模特#泳装秀#内衣秀#儿童",
+            "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"},
+            "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
+         },
+        
+        {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
+        {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},
+        {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
 
+	{"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
+        {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
+        {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
+        {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
+        {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
+        {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
+        {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
+	{
+         "key": "bblili",
+         "name": "🅱️bilibili|maoJS🅱️",
+         "type": 3,
+         "searchable": 1,
+         "changeable": 1,
+         "api": "./open/mybili_open.js",
+         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
+         },
+        {
+         "key": "bblili_xiaodengta",
+         "name": "🅱️bili小灯塔|maoJS🅱️",
+         "type": 3,
+         "searchable": 1,
+         "changeable": 1,
+         "api": "./open/bili.js",
+         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
+        },
+
+       /*{
+         "key": "哔哩",
+         "name": "哔哩test",
+         "type": 3,
+         "api": "csp_Bili",
+         "searchable": 1,
+         "changeable": 0,
+         "ext": {"json": "./biliext/bili_all.json",
+                 "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"},
+         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
+         },*/
+
+          
         {"key":"csp_WoGG","name":" 🍚玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
         {"key":"YiSo","name":" 🍚易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
         {"key":"Zhaozy","name":" 🍚找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
@@ -205,9 +175,7 @@
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json","jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
         {"key":"push_agent","name":"📀推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
         
-
-    
-    /*{
+  /*{
       "key": "七夜",
       "name": " 🐝七夜┃FM",
       "type": 3,
@@ -279,33 +247,45 @@
       "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
     },*/
 
-    {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
-    {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
-    {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
-    {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
-    {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
-    {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
-    {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
-    {
-      "key": "bblili",
-      "name": "🅱️bilibili|maoJS🅱️",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/mybili_open.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-    },
-
-    {
-      "key": "bblili_xiaodengta",
-      "name": "🅱️bili小灯塔|maoJS🅱️",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/bili.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },
+       {
+         "key": "csp_Woogg",
+         "name": " 🍎玩偶哥哥┃搜索",
+         "type": 3,
+         "api": "csp_Woogg",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
+         },   
+         {
+         "key": "阿里云集合",
+         "name": " 🍎阿里云集合|4K",
+         "type": 3,
+         "api": "csp_阿里云集合",
+         "searchable": 1,
+         "filterable": 0,
+         "switchable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
+         },
+         {   
+         "key": "csp_DyyAli",
+         "name": " 🍎电影院┃搜索",
+         "type": 3,
+         "api": "csp_DyyAli",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+         "jar": "./jar/FM0817_xytv.jar;md5;4ac81d228992179bba786c6a061aa6c7"
+         },
+		
+		
+    
 		
     {
       "key": "厂长",
@@ -382,7 +362,6 @@
         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"   
     },
 
-    
     /*{
         "key": "nivod",
         "name": "🐤泥巴|maoJS",
@@ -403,6 +382,10 @@
        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
     },*/
 
+    {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
+    {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
+    {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},	
+		
     {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
