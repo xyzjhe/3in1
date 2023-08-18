@@ -18,7 +18,7 @@
 "sites": 
         [
 
-        {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/zhixc0808.jar;md5;0fcc4bc50c48082bc0f9bdbd2e337ad3"},
+        {"key": "Douban", "name": " 🎥┃豆瓣SP┃ 🎥", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
         {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key": "豆瓣JS","name": " 🖥┃豆瓣JS┃热播 🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
         {"key":"T4荐片","name":"🍒┃豆瓣T4┃备用🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
