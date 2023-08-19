@@ -2,7 +2,7 @@
     
 "wallpaper": "https://bing.img.run/rand.php",
     
-"spider":"./jar/fan0818.txt;md5;8af9e81782d38a9a69a8a39e1d569660",
+"spider":"./jar/fty0819.jar;md5;125712f0807f914eae788cd96348e259",
     
 "lives": [
            {
@@ -17,8 +17,8 @@
     
 "sites": 
         [
-
-        {"key": "Douban", "name":"🐶┃豆瓣SP┃🐶", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
+        {"key":"豆豆","name":"🐂┃豆瓣SP┃🐂","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+        {"key": "Douban", "name":"🐶┃豆瓣SP(备用)┃🐶", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
 	{"key":"T4荐片","name":"🐭┃豆瓣T4┃备用🐭","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
         {"key":"drpy_js_豆瓣","name":"🦉┃豆瓣JS┃🦉","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key":"drpy_js_荐片","name":"荐片|影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
