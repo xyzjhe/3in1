@@ -23,13 +23,6 @@ async function init(cfg) {
   // console.debug('我的哔哩 cookie =====>' + cookie); // js_debug.log
 }
 
-async function init(cfg) {
-  siteKey = cfg.skey;
-  siteType = cfg.stype;
-  if (cookie.startsWith('http')) cookie = await request(cookie);
-  // console.debug('我的哔哩 cookie =====>' + cookie); // js_debug.log
-}
-
 async function home(filter) {
   let classes = [{"type_id":"经典无损音乐合集","type_name":"经典无损音乐合集"},{"type_id":"帕梅拉","type_name":"帕梅拉"},{"type_id":"太极拳","type_name":"太极拳"},{"type_id":"健身","type_name":"健身"},{"type_id":"舞蹈","type_name":"舞蹈"},{"type_id":"音乐","type_name":"音乐"},{"type_id":"歌曲","type_name":"歌曲"},{"type_id":"MV4K","type_name":"MV"},{"type_id":"演唱会4K","type_name":"演唱会"},{"type_id":"白噪音4K","type_name":"白噪音"},{"type_id":"知名UP主","type_name":"知名UP主"},{"type_id":"说案","type_name":"说案"},{"type_id":"解说","type_name":"解说"},{"type_id":"演讲","type_name":"演讲"},{"type_id":"时事","type_name":"时事"},{"type_id":"探索发现超清","type_name":"探索发现"},{"type_id":"纪录片超清","type_name":"纪录片"},{"type_id":"平面设计教学","type_name":"平面设计教学"},{"type_id":"软件教程","type_name":"软件教程"},{"type_id":"实用教程","type_name":"实用教程"},{"type_id":"旅游","type_name":"旅游"},{"type_id":"风景4K","type_name":"风景"},{"type_id":"食谱","type_name":"食谱"},{"type_id":"美食超清","type_name":"美食"},{"type_id":"搞笑","type_name":"搞笑"},{"type_id":"球星","type_name":"球星"},{"type_id":"动物世界超清","type_name":"动物世界"},{"type_id":"相声小品","type_name":"相声小品"},{"type_id":"戏曲","type_name":"戏曲"},{"type_id":"儿童","type_name":"儿童"},{"type_id":"小姐姐4K","type_name":"小姐姐"},{"type_id":"热门","type_name":"热门"},{"type_id":"旅行探险","type_name":"旅行探险"}];
   let filterObj = {
