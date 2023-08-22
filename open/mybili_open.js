@@ -1,10 +1,11 @@
 import { _ } from "assets://js/lib/cat.js";
-let key = '';
-let homeName = '';
+let key = '哔哩哔哩';
+let homeName = '白噪音';
 let HOST = 'https://api.bilibili.com';
 let siteKey = '';
 let siteType = 0;
-const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1';
+let searchable=1;
+const PC_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.361";
 // let cookie = "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"; // 可更换成自己的cookie
 let cookie = "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"; // 可更换成自己的cookie
 
@@ -13,6 +14,13 @@ async function request(reqUrl) {
       headers: getMb(),
   });
   return res.content;
+}
+
+async function init(cfg) {
+  siteKey = cfg.skey;
+  siteType = cfg.stype;
+  if (cookie.startsWith('http')) cookie = await request(cookie);
+  // console.debug('我的哔哩 cookie =====>' + cookie); // js_debug.log
 }
 
 async function init(cfg) {
