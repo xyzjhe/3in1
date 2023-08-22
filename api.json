@@ -205,9 +205,6 @@
          "api": "csp_Bili",
          "searchable": 1,
          "changeable": 0,
-         "style": {
-         "type": "rect",
-         "ratio": 1.597 },
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
 	 "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
          },
