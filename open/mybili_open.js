@@ -6,7 +6,7 @@ let siteKey = '';
 let siteType = 0;
 const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1';
 // let cookie = "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"; // 可更换成自己的cookie
-let cookie = "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"; // 可更换成自己的cookie
+let cookie = "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"; // 可更换成自己的cookie
 
 async function request(reqUrl) {
   const res = await req(reqUrl, {
