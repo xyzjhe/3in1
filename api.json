@@ -46,16 +46,7 @@
         {"key":"UpYun","name":" 🍚Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
         {"key":"PanSearch","name":" 🍚盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
         {"key":"七夜","name":" 🍚七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
-		
-      /*{
-       "key": "push_agent",
-       "name": "🛴手机┃推送",
-        "type": 3,
-        "api": "csp_Push",
-        "searchable": 0,
-        "quickSearch": 0,
-        "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-         },*/
+      /*{"key": "push_agent", "name": "🍚手机┃推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
 	
 
 
@@ -200,7 +191,7 @@
 
         {
          "key": "哔哩",
-         "name": "🅱️┃哔哩┃【FM】",
+         "name": "🅱️┃哔哩【FM】┃4K🅱️",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 1,
@@ -208,16 +199,7 @@
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
 	 "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
          },
-		
-	{
-         "key": "bblili",
-         "name": "🅱️bilibili|maoJS🅱️",
-         "type": 3,
-         "searchable": 1,
-         "changeable": 1,
-         "api": "./open/mybili_open.js",
-         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-         },
+
         {
          "key": "bblili_xiaodengta",
          "name": "🅱️bili小灯塔|maoJS🅱️",
@@ -227,6 +209,18 @@
          "api": "./open/bili.js",
          "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
         },
+		
+	 /*{
+         "key": "bblili",
+         "name": "🅱️bilibili|maoJS🅱️",
+         "type": 3,
+         "searchable": 1,
+         "changeable": 1,
+         "api": "./open/mybili_open.js",
+         "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
+         },*/
+		
+        
 
 		
     {"key":"Cokemv","name":"🍎┃Cokemv┃🍎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
