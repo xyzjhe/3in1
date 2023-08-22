@@ -109,7 +109,9 @@
       "type_id": "喜剧综艺"
     }
   ],
-  
+
+   "filter": {
+     
     "小品": [
       {
         "key": "duration",
