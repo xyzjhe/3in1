@@ -53,7 +53,7 @@
 
 
         {"key":"Gitcafe","name":"📀小纸条(搜索)┃xyq","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
-        {"key":"csp_Zhaozy","name":"📀找资源(搜索)┃xyq","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc""},
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)┃xyq","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)┃xyq","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key":"csp_Yisou","name":"📀易搜(搜索)┃xyq","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)┃xyq","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
