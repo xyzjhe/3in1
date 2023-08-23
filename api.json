@@ -35,7 +35,9 @@
 	{"key":"csp_Ikanbot","name": "👾Ikanbot_xyq","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/custom_spider原画在前0817.jar;md5;4f4a7b576a92810cf89eb844520ae641"},
         {"key":"drpy_js_爱看机器人2","name":"爱看|机器v2[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
         {"key":"drpy_js_爱看机器人3","name":"爱看|机器v3[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"},
-	{"key":"MTV合集","name":"MTV合集", "type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable":1, "quickSearch":1,"filterable":1,"changeable":0 },
+
+	{"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},	
+	
 
 	
         
@@ -210,7 +212,7 @@
          "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
         },
 		
-	 /*{
+	 {
          "key": "bblili",
          "name": "🅱️bilibili|maoJS🅱️",
          "type": 3,
@@ -218,13 +220,10 @@
          "changeable": 1,
          "api": "./open/mybili_open.js",
          "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-         },*/
+         },
 		
+      
     
-    {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
-    {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"},
-   
-    {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Libvio","name":"🌟利播┃直连","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
@@ -282,198 +281,19 @@
 
 
 		
-	/*{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},*/
-        /*{"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},*/
-        /*{"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },*/
+  /*{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},*/
+  /*{"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},*/
+  /*{"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },*/
 
-	{"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
-        {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
-        {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
-        {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
-        {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
-        {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
-        {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
+    {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
+    {"key":"相声小品","name":"🅱️相声小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
+    {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
+    {"key":"少儿","name":"🅱️少儿🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
+    {"key":"小学","name":"🅱️小学🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学课堂.json"},
+    {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
+    {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
-      /*{"key": "豆瓣JS","name": "🖥┃豆瓣JS┃热播🖥","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},*/
-      /*{"key":"荐片","name":" 🐶荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/荐片.js"},*/	
-      /*{"key":"ikanbot","name":"🐱ikanbot_JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},*/
-
-        /*{
-         "key": "lf_js_search",
-         "name": "搜索|lf_search",
-         "type": 3,
-         "searchable": 0,
-         "changeable": 1,
-         "quickSearch": 0,
-         "filterable": 0,
-         "api": "./lufei/lf_search3_min.js",
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-       },*/
-		
-       /*{
-        "key": "lf_js_ikanbot",
-        "name": "点播|lf_ikanbot",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "api": "./lufei/lf_ikanbot4_1_min.js",
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
-       },*/
-		
-       /*{
-        "key": "lf_js_p2p",
-        "name": "磁力|lf_p2p",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "api": "./lufei/lf_p2p2_min.js",
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-       },*/
-		
-       /*{
-       "key": "lf_js_p2p_18+",
-       "name": "磁力18+|lf_p2p",
-       "type": 3,
-       "searchable": 1,
-       "changeable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "api": "./lufei/lf_p2p2_min.js",
-       "ext": "18+",
-       "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-      },*/
-        
-    
-    
-    {
-      "key": "厂长",
-      "name": " 🐹厂长|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/czzy_open.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-    },
-    {
-      "key": "厂长2",
-      "name": " 🐰厂长2|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/czzy_open2.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },
-    {
-      "key": "爱看机器人",
-      "name": " 🦊爱看机器人|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/ikanbot_open.js",
-     "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
-    },
-   {
-      "key": "快看",
-      "name": " 🐻快看|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/kkys_open.js",
-     "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"  
-    },
-    {
-      "key": "独播库",
-      "name": " 🐼独播库|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/duboku_open.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },    
-    {
-      "key": "77影视",
-      "name": " 🐨77影视|maoJS",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./open/kunyu77_open.js",
-      "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4" 
-    },       
-    {
-        "key": "live",
-        "name": "🌸直播|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/live_open.js",
-        "ext": "https://agit.ai/laozou/mtv/raw/branch/master/zb0725.txt",
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },
-    {
-        "key": "wogg",
-        "name": "🐦阿里|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/wogg_open.js",
-        "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"   
-    },
-
-    /*{
-        "key": "nivod",
-        "name": "🐤泥巴|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/nivod_open.js", 
-        "ext": "888解忧愁", 
-        "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },*/
-		
-    /*{
-        "key": "mtsp",
-        "name": "🦉密探|maoJS",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "./open/mtsp_open.js",
-       "jar": "./jar/my_FM_test_0818.jar;md5;01672fc2a4086acb92e5e3f1375ef8c4"
-    },*/
-
-    
-                
-    {
-      "key":"量子",
-      "name":" 🐸采集|量子",
-      "type":"0",
-      "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable":"1",
-      "changeable":"1",
-      "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]
-    },
-    {
-      "key":"非凡",
-      "name":" 🐵采集|非凡",
-      "type":"0",
-      "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable":"1",
-      "changeable":"1",
-      "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]
-    },
-    {
-      "key":"暴风",
-      "name":" 🐷采集|暴风",
-      "type":1,
-      "api":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "changeable":0,
-      "categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","纪录片","科幻片", "喜剧片","战争片"]
-    },
-      
+     
     {"key":"frok","name":" 🦋配置接口完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
     {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
     {"key": "公告", "name": "公告", "type": 3, "api": "csp_Notice","searchable": 0,"changeable": 0, "ext": "./notice.json" }
