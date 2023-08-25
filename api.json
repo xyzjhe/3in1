@@ -17,6 +17,18 @@
     
 "sites": 
         [
+
+        {
+            "key":"SP2345",
+            "name":"2345影视",
+            "type":3,
+            "api":"csp_SP2345",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"./jar/SP2345.jar;md5;868307785B432C11D86C02DD38FB4CDA"
+        },
+		
 	{"key":"csp_SP33","name":"📺360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
         {"key":"77","name":"👒七七┃App(搜索)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
         
