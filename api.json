@@ -39,6 +39,8 @@
         {"key":"py_cctv","name": "📺CCTV📺","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
         {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
 
+		
+
 	{"key":"PanSearch","name":"🥣盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 	{"key":"YiSo","name":"🥣易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
         {"key":"Zhaozy","name":"🥣找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
@@ -47,19 +49,9 @@
 	{"key":"七夜","name":"🥣七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
         /*{"key":"push_agent","name":"🥣手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},*/
 
-         
 		
-	/*{"key":"csp_WoGG","name":"🥣玩偶哥哥┃FTY","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},*/
-        /*{"key":"YiSo","name":"🥣易搜┃FTY","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-        /*{"key":"Zhaozy","name":"🥣找资源┃FTY","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},*/
-        /*{"key":"PanSou","name":"🥣盘搜┃FTY","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-        /*{"key":"UpYun","name":"🥣Up搜┃FTY","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-        /*{"key":"PanSearch","name":"🥣盘Se┃FTY","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-        /*{"key":"七夜","name":"🥣七夜┃搜FTY","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-        /*{"key": "push_agent", "name": "🥣手机┃FTY", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},*/
-	
-        
-        {"key":"csp_Zhaozy","name":"📀找资源(搜索)┃xyq","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
+         
+	{"key":"csp_Zhaozy","name":"📀找资源(搜索)┃xyq","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)┃xyq","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key":"csp_Yisou","name":"📀易搜(搜索)┃xyq","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)┃xyq","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
