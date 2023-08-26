@@ -22,7 +22,19 @@
 	{"key":"drpy_js_豆瓣","name":"🦉┃豆瓣JS┃🦉","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 	
 	{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
-	{"key":"Gitcafe","name":"📀小纸条(搜索)┃4K","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"},
+		
+	{
+	  "key":"Gitcafe",
+	  "name":"📀小纸条(搜索)┃4K",
+		"type":3,
+		"api":"csp_Gitcafe",
+		"playerType":1,
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+	  "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+	  "jar": "./jar/custom_spider原画在前0822.jar;md5;043138513bc3e41ebec51665bb417ebc"
+	},
 	
 	{"key":"drpy_js_爱看机器人2","name":"爱看|机器v2[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
         {"key":"drpy_js_爱看机器人3","name":"爱看|机器v3[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"},
