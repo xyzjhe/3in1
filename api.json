@@ -210,6 +210,8 @@
       "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"   
      },
 
+    {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
+
     {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
@@ -266,12 +268,6 @@
     {"key": "drpy_js_百忙无果", "name": "🥭芒果┃JS", "type": 3,  "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/百忙无果.js" },
     {"key": "drpy_js_搜狐", "name": "🐶搜狐┃JS",  "type": 3,  "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/菜狗.js" }, 		
 
-
-		
-  /*{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},*/
-  /*{"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilivd_individual.py"},*/
-  /*{"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },*/
-
     {"key":"csp_Bili","name":"🅱️哔哩哔哩🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Bili.json"},
     {"key":"相声小品","name":"🅱️相声&小品🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixs.json"},
     {"key":"戏曲","name":"🅱️戏曲🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/Blixq.json"},
@@ -280,16 +276,14 @@
     {"key":"初中","name":"🅱️初中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/初中课堂.json"},
     {"key":"高中","name":"🅱️高中🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/高中课堂.json"},
 
-     
-    {"key":"frok","name":" 🦋配置接口完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-    {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+    {"key":"frok","name":"🦋完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+    {"key":"可耻","name":"🦐广告勿信🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
     {"key": "公告", "name": "公告", "type": 3, "api": "csp_Notice","searchable": 0,"changeable": 0, "ext": "./notice.json" }
   
     ],
 
-    
 "parses": 
-  [
+    [
     {"name":"🐧|QQ&IQIYI|🥝","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"🥭|芒果|🥭","type":0,"url":"https://jx.xmflv.com/?url="},    
     {"name":"🆒|优酷|🆒","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
