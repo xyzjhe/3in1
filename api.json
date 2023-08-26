@@ -18,7 +18,7 @@
 "sites": 
         [
 
-	{"key": "Douban", "name":"🐶┃豆瓣SP(备用)┃🐶", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"  },
+	{"key": "Douban", "name":"🐶┃豆瓣SP┃🐶", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"  },
 	{"key":"drpy_js_豆瓣","name":"🦉┃豆瓣JS┃🦉","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         
 	{"key":"csp_SP33","name":"📺360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
