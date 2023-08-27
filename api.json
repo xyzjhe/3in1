@@ -127,7 +127,7 @@
 
     {
       "key": "玩偶",
-      "name": "🐾玩偶┃FM",
+      "name": "🍅玩偶┃FM",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -137,7 +137,7 @@
     },
     {
       "key": "云搜",
-      "name": " 🐾云搜┃FM",
+      "name": "🍅云搜┃FM",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "盘搜",
-      "name": " 🐾盘搜┃FM",
+      "name": "🍅盘搜┃FM",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "盘搜索",
-      "name": "🐾盘搜索┃FM",
+      "name": "🍅盘搜索┃FM",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -167,7 +167,7 @@
     },
     {
       "key": "找资源",
-      "name": "🐾找资源┃FM",
+      "name": "🍅找资源┃FM",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -178,7 +178,7 @@
 		
   /*{
       "key": "七夜",
-      "name": "🐾七夜┃FM",
+      "name": "🍅七夜┃FM",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -189,7 +189,7 @@
 		
     /*{
       "key": "push_agent",
-      "name": "🐾推送┃FM",
+      "name": "🍅推送┃FM",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
