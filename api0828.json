@@ -157,7 +157,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      ""jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98" 
+      "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98" 
     },
     {
       "key": "盘搜索",
