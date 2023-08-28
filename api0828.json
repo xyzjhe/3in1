@@ -30,10 +30,14 @@
          "api": "csp_Wogg",
          "searchable": 1,
          "changeable": 0,
-         "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json",
+         "ext": {
+                  "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+                  "filter": "./wogg/wogg.json"
+                },
          "jar": "./jar/my_FM_jar_0828c.jar;md5;7a5b46ebc006f57fe238a6160f5c0f8b"   
         },
-		
+
+	
 	{"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 	
 	{"key":"csp_WoGG","name":"🌍┃玩偶哥哥┃🌍4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
