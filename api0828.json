@@ -18,7 +18,11 @@
 "sites": 
         [
 
-	{"key": "Douban", "name":"🦞┃豆瓣SP┃🦞", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"  },
+	{
+	 "key": "Douban", "name":"🦞┃豆瓣SP┃🦞", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,
+	 "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"
+	},
+
 	{"key":"drpy_js_豆瓣","name":"🕸┃豆瓣JS┃🕸","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 	
 	{"key":"csp_WoGG","name":"🥣玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
@@ -44,7 +48,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
-         "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"   
+         "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"   
         },
 
         {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
@@ -133,7 +137,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"  
+      "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"   
     },
     {
       "key": "云搜",
@@ -143,7 +147,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"    
+      "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"     
     },
     {
       "key": "盘搜",
@@ -153,7 +157,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"     
+      ""jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98" 
     },
     {
       "key": "盘搜索",
@@ -163,7 +167,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"     
+      "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"      
     },
     {
       "key": "找资源",
@@ -173,7 +177,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-      "jar": "./jar/my_FM_jar_0825a.jar;md5;6e508a5ff77d3f0b72a40c09a747a185"     
+      "jar": "./jar/my_FM_jar_0828.jar;md5;e547e32f39c81f2788a98de3a0e27f98"      
     },
 		
   /*{
