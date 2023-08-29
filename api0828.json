@@ -170,7 +170,12 @@
         {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-		
+	{"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},
+	{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},
+        {"key":"哈喽","name":"✌哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},
+        {"key":"陌陌","name":"🍄陌陌┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},
+        {"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},
+        {"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable": 1, "quickSearch": 1, "changeable":1, "ext": "http://cms.realdou.cn:35264/api.php/app/","jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},	
 
 	{"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)┃xyq","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 		"ext":"./XYQHiker/玩偶哥哥.json",
