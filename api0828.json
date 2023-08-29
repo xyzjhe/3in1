@@ -34,7 +34,7 @@
          "jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"   
         },
 
-	{"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/},
+	{"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 	
       /*{"key": "Douban", "name":"🐯┃豆瓣SP┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0829a.jar;md5;4981c3798e6eefb1800afe5b2a9a9498"},*/
       /*{"key":"T4荐片","name":"🐭┃豆瓣T4┃备用🐭","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},*/	
