@@ -34,7 +34,7 @@
                   "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
                   "filter": "./wogg/wogg.json"
                 },
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"   
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
         },
 
        {
@@ -45,7 +45,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/xiaozhitiao_test.jar;md5;0c1ed7b71a55f1d6236d58ecef1d3b62"   
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"      
         },
 		
 	{
@@ -56,7 +56,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"   
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"      
         },
 
 	{"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
@@ -106,7 +106,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"      
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"        
         },
         {
          "key": "盘搜",
@@ -116,7 +116,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e" 
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
          },
         { 
          "key": "盘搜索",
@@ -126,7 +126,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"       
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"          
         },
         {
          "key": "找资源",
@@ -136,7 +136,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-         "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"      
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"    
         },
 	{
         "key": "七夜",
@@ -146,7 +146,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"   
+        "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
        },
 		
      /*{
@@ -157,7 +157,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"   
+       "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
         },*/
 
 	{"key":"csp_SP33","name":"360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
