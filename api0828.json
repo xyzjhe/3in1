@@ -37,6 +37,17 @@
          "jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"   
         },
 
+       {
+         "key": "xiaozhitiao",
+         "name": "🍅┃小纸条FM┃4K🍅",
+         "type": 3,
+         "api": "csp_XiaoZhiTiao",
+         "searchable": 1,
+         "changeable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+         "jar": "./jar/xiaozhitiao_test.jar;md5;0c1ed7b71a55f1d6236d58ecef1d3b62"   
+        },
+		
 	{
          "key": "哔哩",
          "name": "🅱️┃哔哩【FM】┃4K🅱️",
