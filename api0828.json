@@ -37,6 +37,21 @@
          "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
         },
 
+        {
+	  "key":"Gitcafe",
+	  "name":"📀小纸条(搜索)┃4K",
+		"type":3,
+		"api":"csp_Gitcafe",
+		"playerType":1,
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+	  "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+	  "jar": "./jar/xyq0827y.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
+	},
+
+        {"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+		
        {
          "key": "xiaozhitiao",
          "name": "🍅┃小纸条FM┃4K🍅",
@@ -46,6 +61,29 @@
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
          "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"      
+        },
+
+       	
+        {
+         "key": "YiSo",
+         "name": "🍅┃易搜FM┃test🍅",
+         "type": 3,
+         "api": "csp_YiSo",
+         "searchable": 1,
+         "changeable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"      
+        },
+
+        {
+         "key": "找资源",
+         "name": "🍅找资源FM┃test🍅",
+         "type": 3,
+         "api": "csp_Zhaozy",
+         "searchable": 1,
+         "changeable": 0,
+         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
+         "jar": "./jar/my_FM_jar_0830a.jar;md5;6e9616604f1690414005f6ba671bca95"    
         },
 		
 	{
@@ -59,20 +97,9 @@
          "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"      
         },
 
-	{"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 	
-        {
-	  "key":"Gitcafe",
-	  "name":"📀小纸条(搜索)┃4K",
-		"type":3,
-		"api":"csp_Gitcafe",
-		"playerType":1,
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-	  "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-	  "jar": "./jar/xyq0827y.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
-	},
+	
+        
 
       /*{"key": "Douban", "name":"🐯┃豆瓣SP┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0829b.jar;md5;62b764946d5f546a55afcedf15c4b48e"},*/
       /*{"key":"T4荐片","name":"🐭┃豆瓣T4┃备用🐭","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},*/	
@@ -128,16 +155,7 @@
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
          "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"          
         },
-        {
-         "key": "找资源",
-         "name": "🍅找资源┃FM",
-         "type": 3,
-         "api": "csp_Zhaozy",
-         "searchable": 1,
-         "changeable": 0,
-         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"    
-        },
+        
 	{
         "key": "七夜",
         "name": "🍅七夜┃FM",
