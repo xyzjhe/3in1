@@ -34,7 +34,7 @@
                   "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
                   "filter": "./wogg/wogg.json"
                 },
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"    
         },
 
         {
@@ -60,7 +60,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"      
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"      
         },
 
        	
@@ -133,7 +133,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"        
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"       
         },
         {
          "key": "盘搜",
@@ -143,7 +143,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"    
          },
         { 
          "key": "盘搜索",
@@ -153,7 +153,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"          
+         "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"          
         },
         
 	{
@@ -164,7 +164,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
+        "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"  
        },
 		
      /*{
@@ -175,7 +175,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-       "jar": "./jar/my_FM_jar_0830a.jar;md5;4cd093c00ff29afc7d12bdc8d89ed3e6"   
+       "jar": "./jar/test_yiso_zhaozy.jar;md5;6e9616604f1690414005f6ba671bca95"    
         },*/
 
 	{"key":"csp_SP33","name":"360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
