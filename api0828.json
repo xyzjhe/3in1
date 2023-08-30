@@ -77,7 +77,7 @@
 
         {
          "key": "找资源",
-         "name": "🍅找资源FM┃test🍅",
+         "name": "🍅┃找资源FM┃test🍅",
          "type": 3,
          "api": "csp_Zhaozy",
          "searchable": 1,
