@@ -38,7 +38,7 @@
                   "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
                   "filter": "./wogg/wogg.json"
                 },
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"    
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"    
         },
 
         {
@@ -51,7 +51,7 @@
 		"quickSearch":1,
 		"filterable":1,
 	  "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-	  "jar": "./jar/xyq0827y.jar;md5;0d46d7d1c01cd19b374a3280c8864596"
+	  "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"   
 	},
 
         {"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
@@ -64,7 +64,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"        
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"          
         },
 
        	 
@@ -77,7 +77,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"       
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"          
         },
 
         {"key":"py_Nvtuan","name":"🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
@@ -111,7 +111,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"       
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"          
         },
         {
          "key": "盘搜",
@@ -121,7 +121,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"      
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"      
          },
         { 
          "key": "盘搜索",
@@ -131,7 +131,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"   
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"   
         },
         
 	{
@@ -142,7 +142,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39" 
+        "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"   
        },
 
        {
@@ -153,7 +153,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"      
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"        
         },
 
         {
@@ -164,7 +164,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-         "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"      
+         "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"   
         },
 		
      /*{
@@ -175,7 +175,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0830c.jar;md5;18a85acb1517eca27eb397300913bd39"     
+        "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"       
         },*/
 
 	{"key":"csp_SP33","name":"360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
