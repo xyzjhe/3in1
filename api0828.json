@@ -80,6 +80,16 @@
          "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"          
         },
 
+	{
+         "key": "哔哩",
+         "name": "🅱哔哩哔哩 | DIY",
+         "type": 3,
+         "api": "./js/bili_diy.js",
+         "searchable": 1,
+         "changeable": 0,
+         "playerType":1
+        },
+
         {"key":"py_Nvtuan","name":"🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
         
 	{"key":"drpy_js_爱看机器人2","name":"爱看|机器v2[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
