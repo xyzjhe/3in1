@@ -82,9 +82,9 @@
 
 	{
          "key": "哔哩",
-         "name": "🅱哔哩哔哩 | DIY",
+         "name": "🅱|哔哩哔哩|DIY🅱",
          "type": 3,
-         "api": "./js/bili_diy.js",
+         "api": "./open/bili_diy.js",
          "searchable": 1,
          "changeable": 0,
          "playerType":1
