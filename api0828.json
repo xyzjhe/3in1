@@ -51,7 +51,7 @@
 		"quickSearch":1,
 		"filterable":1,
 	  "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-	  "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"   
+	  "jar": "./jar/custom_spider原画在前0904.jar;md5;d4a66c0f42281a803c8bc048240789cd"   
 	},
 
         {"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
