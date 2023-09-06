@@ -2,7 +2,7 @@
     
 "wallpaper": "https://bing.img.run/rand.php",
     
-"spider":"./jar/fan0828.txt;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
+"spider":"./jar/fan0905.txt;md5;f20b74480c058b1ff6236601f92d65a8",
     
 "lives": [
            {
@@ -80,7 +80,7 @@
          "jar": "./jar/my_FM_jar_0901a.jar;md5;673a1cc2c938aa9a7ae5f67b612a63d4"          
         },
 
-	{
+	/*{
          "key": "哔哩bili",
          "name": "🅱|哔哩哔哩|DIY🅱",
          "type": 3,
@@ -88,7 +88,7 @@
          "searchable": 1,
          "changeable": 0,
          "playerType":1
-        },
+        },*/ 
 
         {"key":"py_Nvtuan","name":"🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
         
