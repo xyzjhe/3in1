@@ -28,8 +28,8 @@
         {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
 
 	{
-         "key": "影視|FM",
-         "name": "影視",
+         "key": "影視",
+         "name": "🐝影視|FM 🐝",
          "type": 3,
          "api": "csp_YingShi",
          "searchable": 1,
@@ -39,12 +39,12 @@
 
         {"key":"新6V","name":"🧲新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 
-	{"key":"率率","name":"率率┃App","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://s.ether-mine.com/api.php/app/","jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f" },
-        {"key":"迪迪","name":"安迪┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f" },
+	{"key":"率率","name":"🐇率率┃App","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://s.ether-mine.com/api.php/app/","jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f" },
+        {"key":"迪迪","name":"🐾安迪┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f" },
 
 	{
          "key": "暴風",
-         "name": "暴風",
+         "name": "🌪暴風",
          "type": 1,
          "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
          "searchable": 1,
@@ -53,7 +53,7 @@
 		
         {
          "key": "量子",
-         "name": "量子",
+         "name": "🦜量子",
          "type": 0,
          "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
          "searchable": 1,
