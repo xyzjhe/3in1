@@ -24,10 +24,18 @@ var rule = {
     class_name:'电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     class_url:'电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     limit:20,
-    play_parse:true,
-    // 手动调用解析请求json的url,此lazy不方便
-    // lazy:'js:print(input);fetch_params.headers["user-agent"]=MOBILE_UA;let html=request(input);let rurl=html.match(/window\\.open\\(\'(.*?)\',/)[1];rurl=urlDeal(rurl);input={parse:1,url:rurl};',
-    lazy:'js:input={parse:1,jx:1,url:input};',
+    play_parse: true, 
+    lazy:`js:
+		let parseurl = 'http://111.229.142.154/jxtxqq.php?url=';
+		let response = JSON.parse(request(parseurl + input));
+		if (response.code == 200){
+				input = {
+					jx: 0,
+					parse: 0,
+					url: response.url
+				}
+		}
+	  `,
     // 推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     // 一级:'json:data.filterData.listData;title;img;subTitle;videoLink;summary',
     一级:'',
