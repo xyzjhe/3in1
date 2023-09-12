@@ -22,7 +22,7 @@ var rule = {
     limit:20,
     play_parse: true, 
     lazy:`js:
-		let parseurl = 'https://jx.777jiexi.com/player/?url=';
+		let parseurl = 'http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=';
 		let response = JSON.parse(request(parseurl + input));
 		if (response.code == 200){
 				input = {
