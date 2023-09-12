@@ -18,11 +18,11 @@
 "sites": 
         [
 
-	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"},   
+	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"},   
         {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 
 	{"key":"豆豆","name":"🐼┃豆瓣SP(搜索)┃🐼","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 0,"jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"}, 
+	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 0,"jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"}, 
 		
         {"key":"py_cctv","name":"📺CCTV🌎","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
         {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
@@ -36,7 +36,7 @@
          "api": "csp_YingShi",
          "searchable": 1,
          "changeable": 1,
-	 "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"
+	 "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"
         },*/ 
 
         {"key":"新6V","name":"🧲新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
@@ -73,7 +73,7 @@
                   "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
                   "filter": "./wogg/wogg.json"
                 },
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"    
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"    
         },
 
         {
@@ -99,7 +99,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"          
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"          
         },
 
        	 
@@ -112,7 +112,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"          
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"        
         },
 
 	/*{
@@ -163,7 +163,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"          
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"          
         },
         {
          "key": "盘搜",
@@ -173,7 +173,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"      
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"      
          },
         { 
          "key": "盘搜索",
@@ -183,7 +183,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"   
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28" 
         },
         
 	{
@@ -194,7 +194,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"  
+        "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28" 
        },
 
        {
@@ -205,7 +205,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"        
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"        
         },
 
         {
@@ -216,7 +216,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-         "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"   
+         "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"   
         },
 		
      /*{
@@ -227,7 +227,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f"       
+        "jar": "./jar/my_FM_jar_0912a.jar;md5;de5020613bfab2624b23374c0dcf3b28"       
         },*/
 
 	{"key":"csp_SP33","name":"360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
