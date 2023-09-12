@@ -348,7 +348,7 @@
     {"key": "csp_XYQHiker_非凡影视","name":" 🦁非凡影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/非凡影视.json",
 	    "jar": "./jar/custom_spider原画在前0908.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},  
     {"key": "csp_XYQHiker_农民影视","name":"🧑🏻‍农民影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/农民影视.json",
-	    ""jar": "./jar/custom_spider原画在前0908.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},  
+	    "jar": "./jar/custom_spider原画在前0908.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},  
     {"key": "csp_XYQHiker_臭蛋蛋影视","name":"🥚臭蛋蛋影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋蛋影视.json",
 	    "jar": "./jar/custom_spider原画在前0908.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},  
     {"key": "csp_XYQBiu_Libvio","name": "🐮Libvio(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/libvio.json",
