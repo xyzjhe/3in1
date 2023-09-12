@@ -14,8 +14,18 @@ var rule = {
     limit:5,
     multi:1,
     searchable:2,
-    play_parse:true,
-    lazy:'js:input=input.split("?")[0];log(input);',
+   play_parse: true, 
+    lazy:`js:
+		let parseurl = 'http://111.229.142.154/jxtxqq.php?url=';
+		let response = JSON.parse(request(parseurl + input));
+		if (response.code == 200){
+				input = {
+					jx: 0,
+					parse: 0,
+					url: response.url
+				}
+		}
+	  `,
     // 疑似t4专用的
     // lazy:'js:input={parse: 1, playUrl: "", jx: 1, url: input.split("?")[0]}',
     // 手动调用解析请求json的url,此lazy不方便
