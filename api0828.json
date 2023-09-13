@@ -31,12 +31,12 @@
 
 	{"key": "drpy_js_QQ2","name": "🐧┃企鹅QQ┃2K🐧","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/腾云驾雾.js"}, 
 
-	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯4K┃JS","type": 3, "api": "./qqvip/QQ4K.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
-        {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺4K┃JS", "type": 3, "api":"./qqvip/QQ4K.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
-        {"key": "drpy_js_优酷1", "name": "🆒优酷4K┃JS", "type": 3, "api": "./qqvip/QQ4K.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/优酷.js" },
-        {"key": "drpy_js_百忙无果1", "name": "🥭芒果4K┃JS", "type": 3,  "api": "./qqvip/QQ4K.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "./qqvip/百忙无果.js" },
-        {"key": "drpy_js_搜狐1", "name": "🐶搜狐4K┃JS",  "type": 3,  "api": "./qqvip/QQ4K.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/菜狗.js" }, 
-	{"key": "drpy_js_3601", "name": "🌏360影视4K┃JS",  "type": 3,  "api": "./qqvip/QQ4K.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/360影视.js" }, 
+	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
+        {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./qqvip/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
+        {"key": "drpy_js_优酷1", "name": "🆒优酷2K┃JS", "type": 3, "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/优酷.js" },
+        {"key": "drpy_js_百忙无果1", "name": "🥭芒果2K┃JS", "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "./qqvip/百忙无果.js" },
+        {"key": "drpy_js_搜狐1", "name": "🐶搜狐2K┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/菜狗.js" }, 
+	{"key": "drpy_js_3601", "name": "🌏360影视2K┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/360影视.js" }, 
 
 	/*{
          "key": "影視",
