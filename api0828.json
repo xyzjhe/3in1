@@ -365,6 +365,8 @@
     [
     {"name":"聚合1","type":3,"url":"Demo"},
     {"name":"聚合0","type":3,"url":"Web"},
+
+    {"name":"腾讯4K","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
 	    
     {"name":"11","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
     {"name":"22","type":1,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
@@ -373,7 +375,7 @@
     {"name":"77","type":1,"url":"https://jx.ccabc.cc/xc/?key=5567332json&url="},
     {"name":"LR","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"迷你","type":1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
-    {"name":"腾讯","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
+    
     {"name":"左岸","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
     {"name":"奇奇","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url="},
     {"name":"玉米","type":1,"url":"http://42.157.128.109:2323/CH/zy/Yumi.php?url="},
@@ -381,9 +383,13 @@
     {"name":"毛毛","type":1,"url":"http://jx.yzmjx.com:2583/api/?key=9145d5a3198fe01b6a45f97bc746c505&url="},
     {"name":"酷酷","type":1,"url":"http://box.realdou.cn/api/?api_id=4&vod_url=","header":{"user-agent":"okhttp/5.0.0-alpha.10"}},
     {"name":"探探","type":1,"url":"http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url="},
-    {"name":"小新","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
+    {"name":"99","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
+    {"name":"66","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"44","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
+    {"name":"解析7","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+    {"name":"88","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
    
-    {"name":"🐧|腾讯视频4k|🐧","type":0,"url":"http://111.229.142.154/jxtxqq.php?url="},    
+    {"name":"🐧|腾讯视频4k|🐧","type":1,"url":"http://111.229.142.154/jxtxqq.php?url="},    
     {"name":"🍎|腾爱优芒777|🍎","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
     {"name":"嗅探_key521","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
@@ -413,13 +419,19 @@
 
 "rules":
     [
-    {"name":"星星知了","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name":"暴风广告","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-    {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-    {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+    {
+      "name": "磁力廣告",
+      "hosts": ["magnet"],
+      "regex": [ "更多","更 多","社區","社 區","x u u","xuu","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]
+    },
+    {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"暴风","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
+    {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},
+    {"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"host":"api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]}
     ],
    
