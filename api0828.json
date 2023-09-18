@@ -2,7 +2,7 @@
     
 "wallpaper": "https://bing.img.run/rand.php",
     
-"spider":"./jar/fan0914.txt;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+"spider":"./jar/fan0917.txt;md5;ed5d521ad71063b99b06e9ad4c7f9bca",
     
 "lives": [
            {
@@ -18,7 +18,7 @@
 "sites": 
         [
 
-	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0915a.jar;md5;fb3ae696ac136abf1d9176730b6ef0b8"},   
+	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"},   
         {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 
 	{"key":"豆豆","name":"🐼┃豆瓣SP(搜索)┃🐼","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
