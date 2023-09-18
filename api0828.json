@@ -18,14 +18,18 @@
 "sites": 
         [
 
-	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"},   
-        {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"},  
+
+	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"}, 
+		
+        {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"./qqvip/drpy2.min.js","ext":"./qqvip/drpy_list.js"},
 
 	{"key":"豆豆","name":"🐼┃豆瓣SP(搜索)┃🐼","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 0,"jar": "./jar/my_FM_jar_0915a.jar;md5;fb3ae696ac136abf1d9176730b6ef0b8"}, 
+	
 		
         {"key":"py_cctv","name":"📺CCTV🌎","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
-        {"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"}, 
+
+	{"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/网易公版影像.js"}, 
 
 	{"key": "drpy_js_QQ1","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/qq4k.js"}, 
 
