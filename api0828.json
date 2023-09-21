@@ -26,12 +26,8 @@
 
 	{"key":"豆豆","name":"🐼┃豆瓣SP(搜索)┃🐼","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-
-	
-    
-	
-		
-        {"key":"py_cctv","name":"📺CCTV🌎","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
+        
+	{"key":"py_cctv","name":"📺CCTV🌎","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
 
 	{"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/网易公版影像.js"}, 
 
