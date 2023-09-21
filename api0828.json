@@ -46,12 +46,13 @@
          "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
          },
 
-        {"key":"me_iqiyi","name":"🥝┃PHP┃AI奇艺┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1, "filterable":1},
-        {"key":"me_qq","name":"🥝┃PHP┃企鹅WO┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1, "filterable":1},
-	{"key":"me_360","name":"🥝┃PHP┃360┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1, "filterable":1},
-	{"key": "sohu","name": "🥝┃PHP┃搜狐┃test", "type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1 },
+	{"key":"me_qq","name":"🥝┃企鹅php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1, "filterable":1},
+        {"key":"me_iqiyi","name":"🥝┃AI奇艺php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1, "filterable":1},
+        {"key": "sohu","name": "🥝┃搜狐php┃test", "type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1 },
+	{"key":"me_360","name":"🥝┃360php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1, "filterable":1},
 	
-	{"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_qq","name":"┃QQ企鹅php┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_aqiyi","name":"┃爱奇艺php┃test","type":1,"api":"http://tvbox.top/iqyi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 		
 	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
         {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./qqvip/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
