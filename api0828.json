@@ -46,20 +46,19 @@
          "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
          },
 
-	{"key":"me_qq","name":"🥝┃企鹅php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1, "filterable":1},
+	{"key":"me_qq","name":"🐧┃企鹅php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1, "filterable":1},
         {"key":"me_iqiyi","name":"🥝┃AI奇艺php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1, "filterable":1},
-        {"key": "sohu","name": "🥝┃搜狐php┃test", "type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1 },
-	{"key":"me_360","name":"🥝┃360php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1, "filterable":1},
+        {"key": "sohu","name": "🐶┃搜狐php┃test", "type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1 },
+	{"key":"me_360","name":"🌏┃360php┃test", "type":1,"playerType": 2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1, "filterable":1},
 	
-	{"key":"csp_qq","name":"┃QQ企鹅php┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"csp_aqiyi","name":"┃爱奇艺php┃test","type":1,"api":"http://tvbox.top/iqyi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-		
-	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
-        {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./qqvip/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
-        {"key": "drpy_js_优酷1", "name": "🆒优酷2K┃JS", "type": 3, "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/优酷.js" },
-        {"key": "drpy_js_百忙无果1", "name": "🥭芒果2K┃JS", "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "./qqvip/百忙无果.js" },
-        {"key": "drpy_js_搜狐1", "name": "🐶搜狐2K┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/菜狗.js" }, 
-	{"key": "drpy_js_3601", "name": "🌏360影视2K┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/360影视.js" }, 
+	{"key":"csp_qq","name":"🐧┃QQ企鹅php┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+	
+	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯┃JS","type": 3, "api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
+        {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺┃JS", "type": 3, "api":"./qqvip/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
+        {"key": "drpy_js_优酷1", "name": "🆒优酷┃JS", "type": 3, "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/优酷.js" },
+        {"key": "drpy_js_百忙无果1", "name": "🥭芒果┃JS", "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "./qqvip/百忙无果.js" },
+        {"key": "drpy_js_搜狐1", "name": "🐶搜狐┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/菜狗.js" }, 
+	{"key": "drpy_js_3601", "name": "🌏360影视┃JS",  "type": 3,  "api": "./qqvip/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./qqvip/360影视.js" }, 
 
         {
          "key": "玩偶",
