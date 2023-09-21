@@ -2,7 +2,7 @@
     
 "wallpaper": "https://bing.img.run/rand.php",
     
-"spider":"./jar/fan0917.txt;md5;ed5d521ad71063b99b06e9ad4c7f9bca",
+"spider":"./jar/fty0920.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
     
 "lives": [
            {
@@ -18,9 +18,9 @@
 "sites": 
         [
 
-	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"},  
+	{"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 1,"quickSearch": 1,"filterable": 0, "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"},  
 
-	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 0,"jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"}, 
+	{"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 1,"quickSearch": 1,"filterable": 0, "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"}, 
 		
         {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"./qqvip/drpy2.min.js","ext":"./qqvip/douban_list.js"},
 
@@ -71,7 +71,7 @@
                   "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
                   "filter": "./wogg/wogg.json"
                 },
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"    
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"    
         },
 
         {
@@ -82,7 +82,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"          
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"         
         },
 
 	 {"key":"csp_WoGG","name":"🥣┃玩偶哥哥┃4K🥣","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
@@ -109,7 +109,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext": { "json": "./biliext/bili_FM.json", "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt" },
-        "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"        
+        "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"        
         },
 
 	{"key":"py_Nvtuan","name":"🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py" },
@@ -144,7 +144,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"          
+        "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"          
         },
         {
          "key": "盘搜",
@@ -154,7 +154,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"      
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"     
          },
         { 
          "key": "盘搜索",
@@ -164,7 +164,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf" 
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"
         },
         
 	{
@@ -175,7 +175,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf" 
+        "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"
        },
 
        {
@@ -186,7 +186,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"        
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"       
         },
 
         {
@@ -197,7 +197,7 @@
          "searchable": 1,
          "changeable": 0,
          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2",
-         "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"   
+         "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"  
         },
 		
      /*{
@@ -208,7 +208,7 @@
         "searchable": 1,
         "changeable": 0,
         "ext":"http://127.0.0.1:9978/file/tvbox/token.txt",
-        "jar": "./jar/my_FM_jar_0918.jar;md5;4dc9721064a452f895268c82966f85bf"     
+        "jar": "./jar/my_FM_custom_spider_0920.jar;md5;1889551634b5fb65c0d0170e7ba34b92"   
         },*/
 
 	{"key":"csp_SP33","name":"360┃解析(搜索)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
