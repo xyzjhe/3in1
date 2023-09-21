@@ -27,87 +27,8 @@
 	{"key":"豆豆","name":"🐼┃豆瓣SP(搜索)┃🐼","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
-	 {
-      "key": "VIP0",
-      "name": "🎖️VIP热播剧",
-      "type": 1,
-      "playerType": 2,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "电影",
-        "综艺",
-        "动漫"
-      ]
-    },
-
-    {
-            "key": "腾讯资源",
-            "name": "️🐧腾讯影视♻️",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "playUrl":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "芒果资源",
-            "name": "️🥭芒果影视♻️",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-            "playUrl":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "爱奇艺资源",
-            "name": "️🥝奇艺影视♻️",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "优酷资源",
-            "name": "️👔优酷影视♻️",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-            "playUrl":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "搜狐资源",
-            "name": "️🦊搜狐影视♻️",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-            "playUrl":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-
-    {
-      "key": "VIP2k",
-      "name": "🎖️🏅VIP2k",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
-    },
+	
+    
 	
 		
         {"key":"py_cctv","name":"📺CCTV🌎","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
@@ -115,6 +36,15 @@
 	{"key": "drpy_js_网易","name": " 🐭网易公版影像JS","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/网易公版影像.js"}, 
 
 	{"key": "drpy_js_QQ1","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./qqvip/qq4k.js"}, 
+
+	{
+         "key": "VIP2k",
+         "name": "🎖️🏅VIP2k",
+         "type": 1,
+         "playerType": 2,
+         "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
+         "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
+         },
 
 	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./qqvip/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./qqvip/腾云驾雾.js" },
         {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./qqvip/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./qqvip/奇珍异兽.js" },
